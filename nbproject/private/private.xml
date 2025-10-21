@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/injellik_search/injellik_aisearch.php</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/injellik_search/logo.png</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/injellik_search/controllers/front/search.php</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/injellik_search/cli/build_embeddings.php</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/injellik_search/classes/OllamaClient.php</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/injellik_search/classes/AISearchIndexer.php</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/injellik_search/classes/AISearchRepository.php</file>
+            <file>file:/C:/Users/guill/Documents/NetBeansProjects/injellik_search/views/templates/front/search-results.tpl</file>
+        </group>
+    </open-files>
+</project-private>

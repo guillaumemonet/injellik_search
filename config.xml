@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>injellik_aisearch</name>
+    <displayName>Injellik AI Search</displayName>
+    <version>1.3.0</version>
+    <author>Guillaume Monet</author>
+    <tab>search_filter</tab>
+    <description>Recherche conversationnelle basée sur LLM et RAG pour PrestaShop.</description>
+    <ps_versions_compliancy>
+        <min>1.7</min>
+        <max>8.9</max>
+    </ps_versions_compliancy>
+    <confirmUninstall>Are you sure you want to uninstall Injellik AI Search?</confirmUninstall>
+</module>
