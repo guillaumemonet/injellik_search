@@ -56,10 +56,9 @@ class AISearchIndexer
 
             foreach ($rows as $r) {
                 $id_product = (int)$r['id_product'];
-                
                 // Indexer le produit pour chaque langue active
-                foreach ($languages as $lang) {
-                    $this->indexProduct($id_product, (int)$lang['id_lang']);
+                foreach ($languages as $lang => $id_lang) {
+                    $this->indexProduct($id_product, (int)$id_lang);
                 }
             }
             $offset += $batch;
